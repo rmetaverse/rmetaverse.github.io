@@ -1,0 +1,32 @@
+// Import Core Clean Blog SCSS
+@import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+img.hex {
+  float: left;
+  width: 129px;
+  height: 150px;
+  vertical-align: middle;
+  padding: 5px 15px 5px 0px;
+}
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+div.image-credit {
+  float: right;
+  color: white;
+  font-size: small;
+}
+
+img.person {
+  float: left;
+  width: 150px;
+  height: 180px;
+  padding: 0px 20px 50px 0px;
+}

@@ -1,6 +1,18 @@
+# Site settings
 title: metaverse
-maintainer: Martin Westgate
 email: martinjwestgate@gmail.com
-theme: minima
-description: An R ecosystem for evidence synthesis
-github_username: rmetaverse
+description: >- # this means to ignore newlines until "baseurl:"
+  An R ecosystem for meta-research
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: westgatecology
+github_username:  rmetaverse
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
