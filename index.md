@@ -44,6 +44,16 @@ Evidence synthesis (ES) is the process of identifying, collating and synthesisin
 </div>
 
 <div class="clearfix">
+  <a href="https://github.com/mcguinlu/robvis/">
+    <img class="hex" src="/assets/img/hex/robvis_hex.png" alt="robvis package">
+  </a>
+  <br>
+  <a href="https://github.com/mcguinlu/robvis/">
+    <code>robvis</code></a><br>
+    Create publication quality risk-of-bias figures
+</div>
+
+<div class="clearfix">
   <a href="https://rmetaverse.github.io/metaverse/">
     <img class="hex" src="/assets/img/hex/metaverse_hex.png" alt="metaverse package">
   </a>
