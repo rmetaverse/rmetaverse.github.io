@@ -13,52 +13,69 @@ Evidence synthesis (ES) is the process of identifying, collating and synthesisin
 <br>
 
 ## Component packages
-<div class="clearfix">
+
+<div class="clearfix">  
   <a href="https://elizagrames.github.io/litsearchr/">
-    <img class="hex" src="/assets/img/hex/litsearchr_hex.png" alt="litsearchr package">
+    <img class="hexleft" src="/assets/img/hex/litsearchr_hex.png" alt="litsearchr package">
   </a>
   <br>
   <a href="https://elizagrames.github.io/litsearchr/">
-    <code>litsearchr</code></a><br>
+    <code>litsearchr</code>
+  </a>
+  <br>
+  <font class="description">
     Quasi-automatic search strategy development for systematic reviews
+  </font>
 </div>
-
 <div class="clearfix">
   <a href="https://revtools.net">
-    <img class="hex" src="/assets/img/hex/revtools_hex.png" alt="revtools package">
+    <img class="hexright" src="/assets/img/hex/revtools_hex.png" alt="revtools package">
   </a>
   <br>
   <a href="https://revtools.net">
-    <code>revtools</code></a><br>
+    <code>revtools</code>
+  </a>
+  <br>
+  <font class="description">
     Article screening for evidence synthesis using manual or visual methods
+  </font>
 </div>
-
 <div class="clearfix">
   <a href="https://github.com/daniel1noble/metaDigitise">
-    <img class="hex" src="/assets/img/hex/metaDigitise_hex.png" alt="metaDigitise package">
+    <img class="hexleft" src="/assets/img/hex/metaDigitise_hex.png" alt="metaDigitise package">
   </a>
   <br>
   <a href="https://github.com/daniel1noble/metaDigitise">
-    <code>metaDigitise</code></a><br>
-    High-throughput, flexible and reproducible extraction of data from figures in primary research papers
+    <code>metaDigitise</code>
+  </a>
+  <br>
+  <font class="description">
+    High-throughput, reproducible extraction of data from figures
+  </font>
 </div>
-
 <div class="clearfix">
   <a href="https://github.com/mcguinlu/robvis/">
-    <img class="hex" src="/assets/img/hex/robvis_hex.png" alt="robvis package">
+    <img class="hexright" src="/assets/img/hex/robvis_hex.png" alt="robvis package">
   </a>
   <br>
   <a href="https://github.com/mcguinlu/robvis/">
-    <code>robvis</code></a><br>
-    Create publication quality risk-of-bias figures
+    <code>robvis</code>
+  </a>
+  <br>
+  <font class="description">
+    Publication quality risk-of-bias figures
+  </font>
 </div>
-
 <div class="clearfix">
   <a href="https://rmetaverse.github.io/metaverse/">
-    <img class="hex" src="/assets/img/hex/metaverse_hex.png" alt="metaverse package">
+    <img class="hexleft" src="/assets/img/hex/metaverse_hex.png" alt="metaverse package">
   </a>
   <br>
   <a href="https://rmetaverse.github.io/metaverse/">
-    <code>metaverse</code></a><br>
+    <code>metaverse</code>
+  </a>
+  <br>
+  <font class="description">
     Workflows for evidence synthesis
+  </font>
 </div>
